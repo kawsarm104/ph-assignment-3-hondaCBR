@@ -1,0 +1,62 @@
+/* Font  */
+body {
+  overflow-x: hidden; /*though i have no overflow */
+  font-family: "Poppins", sans-serif;
+}
+
+/* Common  */
+span {
+  color: #e76f51;
+}
+
+/* top section  */
+
+header {
+  background-color: #264653;
+  /* height: 698px; */
+
+}
+
+button {
+  height: 44px;
+  width: 168px;
+  background-color: #e76f51;
+}
+
+/* Feature Bike  */
+.feature-bike-img{
+  width: 288px;
+  height: 243px;
+}
+.grayscale {
+  filter: grayscale(100%);
+}
+/* Happy client section  */
+.happy-client {
+  width: 323px;
+  height: 478px;
+}
+
+.client-img{
+  width: 149px;
+}
+/* star icon in happy client  */
+.filled {
+  color: #ffc014;
+}
+/* FAQ section  */
+.Frequently-asked-img {
+  width: 431px;
+  height: 423px;
+}
+/* Bike Reviews Section  */
+.bike-reviews-section{
+  height: 500px;
+
+}
+/* News/Tips section  */
+/* here demension is a image class  */
+.dimension{
+  width: 500px;
+  height: 300px;
+}
